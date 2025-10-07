@@ -7,11 +7,11 @@ using namespace std;
 
 int main() {
 
-for (int i = 1; i <= 15; i++) {
+    for (int i = 1; i <= 15; i++) {
 
-    if (i <= 8 || i >= 12) {
-        cout << i << endl;
+        if (i <= 8 || i >= 12) {
+            cout << i << endl;
+        }
     }
-}
     return 0;
 }
